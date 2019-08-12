@@ -19,7 +19,7 @@ description: "Learn about Office 365 Threat investigation and response and how t
 
 # Get started with threat investigation and response in Office 365 Advanced Threat Protection
 
-If you are part of your organization's security team, you can use Office 365 threat investigation and response capabilities to protect your users from attacks. Office 365 Advanced Threat Protection Plan 2 (formerly known as Office 365 Threat Intelligence) helps security analysts and administrators keep users safe by bubbling up insights and identifying action based on what is happening in their your Office 365 environment. These insights are based on a comprehensive repository of threat intelligence data and systems to spot patterns that correspond to attack behaviors and suspicious activity.
+If you are part of your organization's security team, you can use Office 365 threat investigation and response capabilities to protect your users from attacks. Office 365 Advanced Threat Protection Plan 2 (formerly known as Office 365 Threat Intelligence) helps security analysts and administrators keep users safe by bubbling up insights and identifying action based on what is happening in your Office 365 environment. These insights are based on a comprehensive repository of threat intelligence data and systems to spot patterns that correspond to attack behaviors and suspicious activity.
   
 Read this article to learn more about threat investigation and response, and how to get started.
   
